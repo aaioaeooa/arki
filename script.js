@@ -1,1 +1,0 @@
-console.log('Aira Leonora Archive v3');
